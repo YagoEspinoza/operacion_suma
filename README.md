@@ -12,6 +12,10 @@ El objetivo del script es recibir dos valores, verificar que sean numéricos (`i
 - Conversión y validación de tipo (`int` o `float`).
 - Suma y presentación del resultado.
 - Manejo de errores para entradas no numéricas.
+## Desarrollador 
+| Apellidos y nombres |
+|---------------------|
+| Espinoza Tiza Yago Imanol |
 
 ## 🚀 Requisitos
 
